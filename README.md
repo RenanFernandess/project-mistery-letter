@@ -7,7 +7,8 @@ Projeto que realizei na Trybe, seu objetivo era criar uma aplicação onde a pes
  3. **CSS**
  4. **JavaScript**
     - Function
-    - 
+    - Higher Order Functions
+    - Regular expressions
     - etc...
  5. **DOM**
     - addEventListener
