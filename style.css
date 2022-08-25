@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(115, 115, 115);
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div {
+  margin: 30px auto;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+#letter {
+  flex-direction: column;
+}
+
+span {
+  margin: 5px;
+}
+
+#carta-texto {
+  flex: 1 1 40%;
+  max-width: 50%;
+  height: 40px;
+  border: 1px solid rgb(210, 210, 210);
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#criar-carta {
+  width: 200px;
+  height: 40px;
+  border: 1px solid salmon;
+  border-radius: 10px;
+  background-color:salmon;
+  color: white;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+#criar-carta:hover {
+  background-color:rgb(239, 151, 141);
+}
+
+.newspaper {
+  background-color: antiquewhite;
+  font-family: Times New Roman, Times, serif;
+  font-weight: 700;
+}
+
+.magazine1 {
+  background-color: teal;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.magazine2 {
+  background-image: url('images/pink-pattern.png');
+  color: fuchsia;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+}
+
+.medium {
+  font-size: 20px;
+  padding: 8px;
+}
+
+.big {
+  font-size: 30px;
+  padding: 10px;
+}
+
+.reallybig {
+  font-size: 40px;
+  padding: 15px;
+}
+
+.rotateleft {
+  transform: matrix(0.996195, -0.0871557, 0.0871557, 0.996195, 0, 0);
+}
+
+.rotateright {
+  transform: matrix(0.996195, 0.0871557, -0.0871557, 0.996195, 0, 0);
+}
+
+.skewleft {
+  transform: matrix(1, 0, 0.176327, 1, 0, 0);
+}
+
+.skewright {
+  transform: matrix(1, 0, -0.176327, 1, 0, 0);
+}
