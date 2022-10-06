@@ -17,3 +17,7 @@ Projeto que realizei na Trybe, seu objetivo era criar uma aplicação onde a pes
 ![Mister Letter Screen Shot](./projectGif.gif)
 
 A pessoa usuária digita uma carta no campo de texto, depois clica no botão "GERAR CARTA", assim uma carta vai ser criada com estilos aleatórios.
+
+## Contato
+
+Renan Fernandes - [Linkedin](https://www.linkedin.com/in/orenanfernandes/)
