@@ -4,7 +4,7 @@
 
 ![Mister Letter Screen Shot](./projectImage.png)
 
-Projeto que realizei na Trybe, seu objetivo era criar uma aplicação onde a pessoa usuária digita um texto e a partir deste texto será gerado uma carta misteriosa, tem também como objetivo promover a busca por novos conhecimentos.
+Projeto que realizei na [Trybe](https://github.com/tryber), seu objetivo era criar uma aplicação onde a pessoa usuária digita um texto e a partir deste texto será gerado uma carta misteriosa, tem também como objetivo promover a busca por novos conhecimentos.
 
 ## Construido Com:
  1. **HTML**
