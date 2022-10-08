@@ -9,7 +9,7 @@ Projeto que realizei na [Trybe](https://github.com/tryber), seu objetivo era cri
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Construido Com:
+## Construido Com
  1. **HTML**
  3. **CSS**
  4. **JavaScript**
@@ -19,7 +19,7 @@ Projeto que realizei na [Trybe](https://github.com/tryber), seu objetivo era cri
 
 ## Uso
 
-![Mister Letter Screen Shot](./projectGif.gif)
+![Mister Letter Gif](./projectGif.gif)
 
 A pessoa usuária digita uma carta no campo de texto, depois clica no botão "GERAR CARTA", assim uma carta vai ser criada com estilos aleatórios.
 
